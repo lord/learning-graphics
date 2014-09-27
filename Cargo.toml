@@ -1,0 +1,11 @@
+[package]
+
+name = "learning-graphics"
+version = "0.0.1"
+authors = ["Robert Lord <robert@lord.io>"]
+
+[dependencies.gfx]
+git = "http://github.com/gfx-rs/gfx-rs"
+
+[dependencies.glfw]
+git = "https://github.com/bjz/glfw-rs.git"
